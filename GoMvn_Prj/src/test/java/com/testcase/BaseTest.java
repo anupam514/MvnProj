@@ -11,6 +11,8 @@ public class BaseTest {
 	@Test(dataProvider="excelData",dataProviderClass=DataFactory.class)
 	public void check(Map<String , String > testData) {
 		System.out.println(testData.get("Name"));
+		
+		
 	}
 	
 	
