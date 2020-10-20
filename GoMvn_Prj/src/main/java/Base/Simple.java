@@ -9,6 +9,10 @@ public class Simple {
 		public void message() {
 		System.out.println("anup");
 		
+		
+		
+		
+		
 		}
 
 }
